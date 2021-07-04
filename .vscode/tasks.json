@@ -1,0 +1,19 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=733558
+	// for the documentation about the tasks.json format
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Love That Feature",
+			"type": "shell",
+			"command": "npm run format && npm run lint && cls && git add .",
+
+			"problemMatcher": []
+		},
+		{
+			"label": "Feeling Confident, Show Me!",
+			"type": "shell",
+			"command": "npm run build && cls && npm run preview -- --open"
+		}
+	]
+}
