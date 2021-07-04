@@ -21,6 +21,7 @@
 		width: 100%;
 		max-width: 1024px;
 		margin: 0 auto;
+		margin-top: 55px;
 		box-sizing: border-box;
 	}
 

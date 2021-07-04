@@ -4,6 +4,13 @@
 
 <section>
 	<div>
+		<h3>c</h3>
+		<p id="clr">
+			clr - Control License Request - A special type of licensing and authorized access to control
+			materials that were collected from tests.
+		</p>
+	</div>
+	<div>
 		<h3>f</h3>
 		<p id="fc">fc - Fibre Cable - Cables go bzzzzz!</p>
 	</div>

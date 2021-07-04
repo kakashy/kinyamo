@@ -25,7 +25,7 @@
 	footer {
 		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-		position: sticky;
+		position: relative;
 		bottom: 0;
 		width: inherit;
 		padding: 10px;
@@ -35,6 +35,9 @@
 	.f2 {
 		display: flex;
 		flex-direction: column;
+	}
+	.f1 p {
+		font-size: 13px;
 	}
 	ul {
 		list-style: none;

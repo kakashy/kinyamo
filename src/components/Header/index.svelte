@@ -1,7 +1,3 @@
-<script>
-	// your script goes here
-</script>
-
 <header>
 	<div class="corner">
 		<a href="/">KINYAMO</a>
@@ -21,6 +17,7 @@
 		height: 55px;
 		margin: 0;
 		padding: 10px;
+		background-color: var(--bg);
 		box-sizing: border-box;
 		box-shadow: 0px 8px 10px #00000020;
 		display: flex;

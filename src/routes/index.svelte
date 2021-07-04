@@ -24,6 +24,15 @@
 			and mass-production of a plug-n-play device to attenuate light signals inside FCs.
 		</p>
 	</div>
+	<div>
+		<h2>Tech Demo</h2>
+		<p>
+			We did a series of controlled experiments to prove viability. All of the videos recorded were
+			treated as classified material to the general public but can be accessed by a <a
+				href="/glossary#clr">CLR</a
+			> - emailed to the Project Master.
+		</p>
+	</div>
 </section>
 
 <style>

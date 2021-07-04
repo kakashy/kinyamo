@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json.schemastore.org/web-manifest",
+  "short_name": "Kinyamo",
+  "name": "Kinyamo Site",
+  "description": "Kinyamo is a revolutionary tech designed to provide maximum efficiency in fibre cables.",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#0D0F12",
+  "theme_color": "#0D0F12",
+  "start_url": "./?utm_source=web_app_manifest",
+  "display": "standalone",
+  "orientation": "any"
+}
